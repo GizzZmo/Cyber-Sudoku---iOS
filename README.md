@@ -1,4 +1,4 @@
-# Cyber-Sudoku---iOS
+# Cyber-Sudoku for iOS
 
 A modern Sudoku game for iOS, fully programmed in Swift.
 
