@@ -25,3 +25,16 @@ A modern Sudoku game for iOS, fully programmed in Swift.
 1. Clone the repository:
    ```bash
    git clone https://github.com/GizzZmo/Cyber-Sudoku---iOS.git
+
+Open the project in Xcode.
+
+Build and run on your preferred iOS device or simulator.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+This project is open source and available under the MIT License.
+
+Enjoy playing Sudoku on your iOS device!
+
